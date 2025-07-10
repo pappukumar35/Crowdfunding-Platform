@@ -38,9 +38,15 @@ A web-based crowdfunding platform that allows users to raise and support fund ca
 ## 📸 Screenshots
 
 > _Add screenshots of your homepage, create campaign page, donation form, etc._
+| Page        | Preview |
+|-------------|---------|
+| Sign Up     | ![Sign Up](https://github.com/pappukumar35/Crowdfunding-Platform/blob/ccc15bcdc8d94f15145cbac9b212d256200967e9/Sign%20up.jpg?raw=true) |
+| Login       | ![Login](https://github.com/pappukumar35/Crowdfunding-Platform/blob/ccc15bcdc8d94f15145cbac9b212d256200967e9/Login.jpg?raw=true) |
+| Donation    | ![Donation](https://github.com/pappukumar35/Crowdfunding-Platform/blob/ccc15bcdc8d94f15145cbac9b212d256200967e9/donation.jpg?raw=true) |
+| Income      | ![Income](https://github.com/pappukumar35/Crowdfunding-Platform/blob/ccc15bcdc8d94f15145cbac9b212d256200967e9/income.jpg?raw=true) |
+| Campaign Creation | ![Campaign](https://github.com/pappukumar35/Crowdfunding-Platform/blob/ccc15bcdc8d94f15145cbac9b212d256200967e9/Campaign%20create.jpg?raw=true) |
 
 ---
-
 ## 📦 How to Run Locally
 
 1. Clone the repository  
