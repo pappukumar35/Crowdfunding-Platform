@@ -7,7 +7,7 @@ A web-based crowdfunding platform that allows users to raise and support fund ca
 ![Home](https://github.com/pappukumar35/Crowdfunding-Platform/blob/1d43e5cf78c4d269374ef06e644c6ffc4225a3d3/crowdfunding.jpg?raw=true)
 
 
-## 👨‍💻 Team Members
+## 👨‍💻 Team Members.
 
 - **Munna Kumar** – Backend Developer  
 - **Ritesh Kumar** – Frontend Developer  
