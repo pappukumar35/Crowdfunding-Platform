@@ -16,7 +16,7 @@ A web-based crowdfunding platform that allows users to raise and support fund ca
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tech Stack.
 
 - **Backend:** Spring Boot, Hibernate, Java  
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap  
