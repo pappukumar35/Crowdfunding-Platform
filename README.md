@@ -2,7 +2,7 @@
 
 A web-based crowdfunding platform that allows users to raise and support fund campaigns. Built using modern web technologies for transparency and simplicity in fundraising.
 
-## 🏠 Home Page Preview
+## 🏠 Home Page Preview.
 
 ![Home](https://github.com/pappukumar35/Crowdfunding-Platform/blob/1d43e5cf78c4d269374ef06e644c6ffc4225a3d3/crowdfunding.jpg?raw=true)
 
